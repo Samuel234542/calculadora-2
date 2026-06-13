@@ -2,4 +2,4 @@
 
 criado por uma pessoa aleatoria
 
-criado por Samuel E Suárez Cgi
+criado por Samuel E Suárez C
