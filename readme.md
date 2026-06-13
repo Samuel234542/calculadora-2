@@ -1,3 +1,3 @@
 # Projeto calculadora cientifíca
 
-criado por SESC
+criado por Samuel Eduardo Suárez Cisnero
